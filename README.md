@@ -99,6 +99,7 @@ Open "Gnome Tweaks" and navigate to extensions. Click on the little cogwheel (se
 
 There it will show up available phones in the same network (you need to install and open "kde connect" on your phone first). You can pair by clicking on it and then accepting on the phone. Once paired clicking on the phone changes the settings.
 
+You might want to lock or unlock your PC with your phone. Therefore set up the commands `loginctl lock-session` and `loginctl unlock-session` on your PC in the GSConnect settings when connected with the phone.
 
 ## Have Fun
 
