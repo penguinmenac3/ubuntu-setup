@@ -8,7 +8,7 @@ Follow the default instructions, except for "minimal installation", "updates" an
 
 ```bash
 # Install basic tools
-sudo apt install vim neofetch tmux screen htop keepass2 gnome-tweaks apt-transport-https curl evolution evolution-ews
+sudo apt install vim neofetch tmux screen htop keepass2 gnome-tweaks apt-transport-https curl evolution evolution-ews vlc
 
 # Add flatpack support (e.g. TeamSpeak is a flatpak)
 sudo apt install gnome-software-plugin-flatpak
