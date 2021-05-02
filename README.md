@@ -8,7 +8,7 @@ Follow the default instructions, except for "minimal installation", "updates" an
 
 ```bash
 # Install basic tools
-sudo apt install vim neofetch tmux screen htop keepass2 gnome-tweaks apt-transport-https curl evolution
+sudo apt install vim neofetch tmux screen htop keepass2 gnome-tweaks apt-transport-https curl evolution evolution-ews
 
 # Add flatpack support (e.g. TeamSpeak is a flatpak)
 sudo apt install gnome-software-plugin-flatpak
@@ -90,6 +90,8 @@ Do not install them, use the webapps instead.
 Open up "Online Accounts" (in Settings) and add your accounts. Imap and google are straight forward.
 
 Now in evolution you will have your mail, calendar, contacts, todos available to you.
+
+If you have an office365 account, you need to set it up as exchange with the server (under advanced) as `outlook.office365.com`.
 
 ## Setting up GSConnect
 
