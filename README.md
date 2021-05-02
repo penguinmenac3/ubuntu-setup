@@ -65,7 +65,7 @@ sudo apt update && sudo apt install signal-desktop
 
 ## Setting up Gnome Extensions
 
-Visit extensions.gnome.org and follow the instructions at the top banner/popup to install the plugin for your browser.
+Visit [extensions.gnome.org](https://extensions.gnome.org) and follow the instructions at the top banner/popup to install the plugin for your browser.
 
 Reload the page and install:
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
@@ -82,8 +82,8 @@ This allows you to have all your webapps easy to access.
 ### Installing Teams, Spotify, etc.
 
 Do not install them, use the webapps instead.
-* [Teams](teams.microsoft.com)
-* [Spotify](open.spotify.com)
+* [Teams](https://teams.microsoft.com)
+* [Spotify](https://open.spotify.com)
 
 ## Setting up Mail/Calendar/Contacts
 
